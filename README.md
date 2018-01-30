@@ -2,4 +2,7 @@
 
 Playground to demonstrate the differences between merge and rebase in git.
 
+This is another change to master.
+
 This is a change made to master.
+One
